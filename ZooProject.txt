@@ -1,2 +1,11 @@
 Plan: Build a zoo that can hold 100 animals.
+release-branches
+add an entrance 
+i made an edit yay
+heres a change to future branch 2 yay
+zebras to be added
+woah its a zebra
+and a horse yay
+tigers are here
 Hotfix: need fences for keeping animal contained
+main
